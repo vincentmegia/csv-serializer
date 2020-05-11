@@ -1,0 +1,14 @@
+{
+  "serializers": [
+    {
+      "serializer": {
+        "id":  "csv",
+        "columns": [
+          { "name": "Order Id", "type": "String", "ordinal": 1 },
+          { "name": "Ship Date", "type": "Date", "ordinal": 2 },
+          { "name": "Row Id ", "type": "Date", "ordinal": 0 }
+        ]
+      }
+    }
+  ]
+}
